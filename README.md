@@ -22,10 +22,10 @@ ETH, BSC, MATIC and other. (ETH drainer with CLAIM contract)
 
 Drainer includes:
 >Seaport (Steals all Approved Opensea Assets) Drainer
->Permit (Drain approved tokens on 10+ chains)
->ERC20 (for not approved tokens = SAFA drain)
->ERC721/1155 NFT (for not approved NFT = SAFA drain)
->ETH, BSC, MATIC and other. (ETH drainer with CLAIM contract)
+Permit (Drain approved tokens on 10+ chains)
+ERC20 (for not approved tokens = SAFA drain)
+ERC721/1155 NFT (for not approved NFT = SAFA drain)
+ETH, BSC, MATIC and other. (ETH drainer with CLAIM contract)
 
 - Support 10+ networks
 - Metamask, WalletConnect, Binance Wallet
