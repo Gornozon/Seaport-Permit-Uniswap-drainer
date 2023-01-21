@@ -55,4 +55,4 @@
 
 # Middleman is accepted.
 
-# Contact: t.me/lyutiypizdec
+# Contact: [пример](http://example.com/ "Необязательная подсказка")
