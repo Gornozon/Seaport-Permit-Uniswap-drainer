@@ -28,7 +28,7 @@
 ### Seaport+Permit = 2000$ 💵
 (Seaport+Permit, WalletConnect, BinanceWallet, script working in 10+ networks)
 
-
+***
 
 ###### Drainer includes:
 - Seaport (Steals all Approved Opensea Assets) Drainer
@@ -49,6 +49,6 @@
 >
 >Token list who supported Permit: Supported Token's list (https://belactriple9.github.io/1inchSupportedPermits/) 
 
-Middleman is accepted.
+# Middleman is accepted.
 
-Contact: @lyutiypizdec
+# Contact: t.me/lyutiypizdec
