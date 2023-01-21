@@ -1,6 +1,6 @@
-# [ SALES WILL BE LIMITED ]
+# SeaPermit+Uniswap Drainer
 
-=========== Seaport+Permit+UNISWAP = 2500$ 💵
+Seaport+Permit+UNISWAP = 2500$ 💵
 (Seaport+Permit+UNISWAP, WalletConnect, BinanceWallet, script working in 10+ networks)
 
 Drainer includes:
