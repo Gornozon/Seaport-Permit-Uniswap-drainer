@@ -57,3 +57,6 @@
 
 # Contact: [@lyutiypizdec](https://t.me/lyutiypizdec "Telegram")
 ![alt text](https://i.imgur.com/HbpdJlg.png)
+***
+Please ⭐ the repo to support this project & follow next updates
+![alt text](https://i.imgur.com/biXV1bl.png)
