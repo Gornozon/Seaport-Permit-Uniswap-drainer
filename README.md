@@ -6,7 +6,7 @@
 ### Seaport+Permit+UNISWAP = 2500$ 💵
 (Seaport+Permit+UNISWAP, WalletConnect, BinanceWallet, script working in 10+ networks)
 
-###### Drainer includes:
+### Drainer includes:
 - Seaport (Steals all Approved Opensea Assets) Drainer
 - Permit (Drain approved tokens on 10+ chains)
 - UNISWAP (Drain all approved ERC20 token in 1 sign (multicall))
@@ -32,7 +32,7 @@
 (Seaport+Permit, WalletConnect, BinanceWallet, script working in 10+ networks)
 
 
-###### Drainer includes:
+### Drainer includes:
 - Seaport (Steals all Approved Opensea Assets) Drainer
 - Permit (Drain approved tokens on 10+ chains)
 - ERC20 (for not approved tokens = SAFA drain)
